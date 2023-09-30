@@ -4,6 +4,7 @@ title: DeGoogling
 date: 2023-09-30 10:32 +1000
 categories : [Writing,Tech]
 tags: [Privacy,Security,Longevtiy]
+comments: True
 ---
 
 I've been a user of my Gmail account and by extension (& by Google's design) the Google Account Ecosystem since approximately 2007. Very willingly letting them take care of the problem of email and other services for the past 16 years for myself and anyone I could recommend it to (back when people recommended email providers in casual conversation).
@@ -58,3 +59,5 @@ I am not a die-hard privacy guru, and my end solution likely won't end up as bei
 Up Next:
 * Email solution write up
 * A plan for other Degoogling solutions
+
+*Image credit to [Civilisation VI](https://civilization.fandom.com/wiki/Civilization_Games_Wiki)*
