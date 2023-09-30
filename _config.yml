@@ -26,7 +26,7 @@ description: >- # used by seo meta and the atom feed
   A blog for the Newcombe Cloud
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
-url: "https://words.newcombe.cloud"
+url: "https://newark.newcombe.cloud"
 
 github:
   username: zmnewk # change to your github username
