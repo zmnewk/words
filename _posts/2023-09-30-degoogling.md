@@ -6,8 +6,6 @@ categories : [Writing,Tech]
 tags: [Privacy,Security,Longevtiy]
 ---
 
-*This is a personal blog, implemented to encourage myself to write and reflect on the various messing around with things that I do in the tech space.*
-
 I've been a user of my Gmail account and by extension (& by Google's design) the Google Account Ecosystem since approximately 2007. Very willingly letting them take care of the problem of email and other services for the past 16 years for myself and anyone I could recommend it to (back when people recommended email providers in casual conversation).
 
 
